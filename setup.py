@@ -34,7 +34,7 @@ setup(
     ],
     package_dir={'gal_pop_model_components': 'gal_pop_model_components'},
     include_package_data=True,
-    install_requires=['numpy', 'scipy'
+    install_requires=['numpy', 'scipy', 'astropy'
     ],
     license='MIT',
     zip_safe=False,
